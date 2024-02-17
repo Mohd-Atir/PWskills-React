@@ -1,0 +1,16 @@
+.blog-bg{
+    background-color: #210b4d;
+}
+
+.card-img{
+    border: 5px solid #ffffff;
+}
+
+.blog-container{
+    box-shadow: 0 0 5px #ff0000;
+    background-color: #ffffff;
+}
+
+.readblogimg{
+    height: 300px;
+}
